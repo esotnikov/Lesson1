@@ -15,4 +15,4 @@ deploy:
   provider: heroku
   api_key:
     secure: "da6528d4-15b2-42d5-b658-e1ec54aa297f"
-  app: Lesson1
+  app: app-lesson1
